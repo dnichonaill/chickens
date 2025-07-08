@@ -257,7 +257,7 @@
     z-index: -1;
   }
 
-  .bear-link {
+  /* .bear-link {
     color: canvasText;
     position: fixed;
     top: 1rem;
@@ -267,7 +267,7 @@
     display: grid;
     place-items: center;
     opacity: 0.8;
-  }
+  } */
 
   :where(.x-link, .bear-link):is(:hover, :focus-visible) {
     opacity: 1;
